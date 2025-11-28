@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanrakib123&label=Profile%20views&color=0e75b6&style=flat" alt="armanrakib123" /> </p>
 
 
-- 🔭 I’m currently learning **Typescript & Nextjs**
+- 🔭 I’m currently learning ** Artificial intelligence & Machine learning **
 
-- 💬 Ask me about **JavaScript, C++, DSA**
+- 💬 Ask me about **JavaScript , Python , DSA**
 
 - 📫 How to reach me **armanrakib61@gmail.com**
 
@@ -29,7 +29,7 @@
 ## 🛠️ Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,html,css,tailwind,cpp,firebase,git,github,arduino,bootstrap,figma,py"/>
+   <img src="https://skillicons.dev/icons?i=html,tailwind,py,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,cpp,firebase,git,github,arduino,bootstrap,figma"/>
   </a>
 </p>
 </div>
