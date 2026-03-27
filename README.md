@@ -1,6 +1,8 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D12AQECoGMe4jGWyw/article-cover_image-shrink_600_2000/0/1687858136447?e=2147483647&v=beta&t=XQpWsd2CsAoEw67TbHDY5fGKga0UEQ8KZilAart20o4)
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="full" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="full" />
 </p>
 <h1 align="center">Hi 👋, I'm ARMAN RAKIB</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh. </h3>
