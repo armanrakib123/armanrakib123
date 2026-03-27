@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="full" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" />
 </p>
 <h1 align="center">Hi 👋, I'm ARMAN RAKIB</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh. </h3>
