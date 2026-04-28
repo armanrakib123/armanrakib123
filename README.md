@@ -31,7 +31,7 @@
 ## 🛠️ Languages and Tools :
 <p>
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,tailwind,py,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,cpp,firebase,git,github,arduino,bootstrap,figma"/>
+   <img src="https://skillicons.dev/icons?i=html,tailwind,py,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,firebase,git,github,arduino,bootstrap,figma,docker,kafka,kubernetes,mysql,postgres,spring"/>
   </a>
 </p>
 </div>
