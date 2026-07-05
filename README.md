@@ -41,7 +41,7 @@
 ## 📈 GitHub Stats
 <div style="display: flex;">
     <div style="margin-right: 10px;">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanrakib123&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;"><br> <br>
+       <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanrakib123&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
     </div>
 </div>
