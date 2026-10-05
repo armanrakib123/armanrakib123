@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently learning ** Artificial intelligence & Machine learning **
 
-- 💬 Ask me about **JavaScript , Python , DSA**
+- 💬 Ask me about ** JAVA , Python , DSA**
 
 - 📫 How to reach me **armanrakib61@gmail.com**
 
