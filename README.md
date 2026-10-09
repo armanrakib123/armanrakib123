@@ -38,23 +38,66 @@
 
 <br>
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 <div style="display: flex;">
     <div style="margin-right: 10px;">
        <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanrakib123&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
     </div>
 </div>
-<br>
-
-
-<!-- <br>
-<hr>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=armanrakib123&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="armanrakib123" />
-
-</details>                     
 <br> -->
+
+
+
+
+
+
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**📊 LeetCode Stats**
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=ARMANRAKIB&theme=dark)
+
+</td>
+</tr>
+</table>
+
+
+
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**🔥 GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=armanrakib123&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&custom_title=Shanu's%20GitHub%20Stats)
+
+</td>
+<td width="50%" align="center">
+
+**⚡ GitHub Streak**
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armanrakib123&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=ffffff)
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   
