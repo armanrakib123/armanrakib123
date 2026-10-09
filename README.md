@@ -28,12 +28,45 @@
 <br>
 <div id="badges">
 
-## 🛠️ Languages and Tools :
-<p>
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,tailwind,py,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,firebase,git,github,arduino,bootstrap,figma,docker,kafka,kubernetes,mysql,postgres,spring"/>
-  </a>
-</p>
+
+
+
+
+# 🛠️ Technical Skills
+### 💻 Languages
+
+<p> <img src="https://skillicons.dev/icons?i=java,python,cpp,php,cs,go" alt="Programming Languages" /> </p>
+
+### 🎨 Frontend Development
+
+<p> <img src="https://skillicons.dev/icons?i=nextjs,react,vue,html,bootstrap,tailwind" alt="Frontend Technologies" /> </p>
+
+### ⚙️ Backend Development
+
+<p> <img src="https://skillicons.dev/icons?i=spring,express,dotnet,laravel" alt="Backend Technologies" /> </p>
+
+### 🗄️ Databases & Caching
+
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" alt="Databases and Caching" /> </p>
+
+### ☁️ Tools, Cloud & DevOps
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,aws,postman,prisma,hibernate" alt="Tools, Cloud and DevOps" /> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 <br>
