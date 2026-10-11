@@ -87,7 +87,7 @@
 
 </div>
 
-
+<div align="center">
 <table>
 <tr>
 <td width="50%" align="center">
@@ -99,6 +99,9 @@
 </td>
 </tr>
 </table>
+</div>
+
+
 
 
 
