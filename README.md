@@ -11,18 +11,6 @@
     Building scalable backend systems, modern web applications,<br />
     and reliable software solutions with clean, maintainable code.
   </p>
-
-  <p>
-    <a href="https://github.com/armanrakib123">
-      <img src="https://komarev.com/ghpvc/?username=armanrakib123&label=Profile%20views&color=0e75b6&style=flat" alt="armanrakib123" />
-    </a>
-    <a href="https://github.com/armanrakib123?tab=followers">
-      <img src="https://img.shields.io/github/followers/armanrakib123?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
-    </a>
-    <a href="https://github.com/armanrakib123">
-      <img src="https://img.shields.io/github/stars/armanrakib123?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=yellow&label=Stars" alt="GitHub Stars" />
-    </a>
-  </p>
 </div>
 <img align="right"  alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
