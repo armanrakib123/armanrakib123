@@ -14,7 +14,7 @@
 
   <p>
     <a href="https://github.com/armanrakib123">
-      <img src="https://komarev.com/ghpvc/?username=armanrakib123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=armanrakib123&label=Profile%20views&color=0e75b6&style=flat" alt="armanrakib123" />
     </a>
     <a href="https://github.com/armanrakib123?tab=followers">
       <img src="https://img.shields.io/github/followers/armanrakib123?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
@@ -25,7 +25,6 @@
   </p>
 </div>
 <img align="right"  alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
-
 
 
 - 🔭 I’m currently learning ** Artificial intelligence & Machine learning **
@@ -52,23 +51,23 @@
 
 
 # 🛠️ Technical Skills
-### 💻 Languages
+#### 💻 Languages
 
 <p> <img src="https://skillicons.dev/icons?i=java,python,cpp,php,cs,go" alt="Programming Languages" /> </p>
 
-### 🎨 Frontend Development
+#### 🎨 Frontend Development
 
 <p> <img src="https://skillicons.dev/icons?i=nextjs,react,vue,html,bootstrap,tailwind" alt="Frontend Technologies" /> </p>
 
-### ⚙️ Backend Development
+#### ⚙️ Backend Development
 
 <p> <img src="https://skillicons.dev/icons?i=spring,express,dotnet,laravel" alt="Backend Technologies" /> </p>
 
-### 🗄️ Databases & Caching
+#### 🗄️ Databases & Caching
 
 <p> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" alt="Databases and Caching" /> </p>
 
-### ☁️ Tools, Cloud & DevOps
+#### ☁️ Tools, Cloud & DevOps
 <p> <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,aws,postman,prisma,hibernate" alt="Tools, Cloud and DevOps" /> </p>
 
 
@@ -87,10 +86,6 @@
 
 
 </div>
-
-<br>
-
-
 
 
 <table>
@@ -144,52 +139,71 @@ IMPORTANT:
 
 <table>
   <tr>
-    <td width="33.33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="middle">
       <a href="YOUR_VIRTUALDOC_VERCEL_URL">
-        <img src="/assets/projects/medicore.png" width="150" alt="VirtualDoc Logo" />
+        <img src="./assets/projects/medicore.png" width="90" height="90" alt="VirtualDoc Logo" />
       </a>
       <h3>VirtualDoc</h3>
-      <p><strong>Healthcare & Telemedicine</strong></p>
+      <p><sub>Healthcare & Telemedicine</sub></p>
+      <a href="YOUR_VIRTUALDOC_VERCEL_URL">Live Demo ↗</a>
+      <br />
+      <br />
     </td>
-    <td width="33.33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="middle">
       <a href="YOUR_FINORA_VERCEL_URL">
-        <img src="/assets/projects/finora.png" width="150" alt="Finora Logo" />
+        <img src="./assets/projects/finora.png" width="90" height="90" alt="Finora Logo" />
       </a>
       <h3>Finora</h3>
-      <p><strong>Banking Management System</strong></p>
+      <p><sub>Banking Management System</sub></p>
+      <a href="YOUR_FINORA_VERCEL_URL">Live Demo ↗</a>
+      <br />
+      <br />
     </td>
-    <td width="33.33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="middle">
       <a href="YOUR_NEXORA_VERCEL_URL">
-        <img src="/assets/projects/nexora.png" width="150" alt="Nexora Logo" />
+        <img src="./assets/projects/nexora.png" width="90" height="90" alt="Nexora Logo" />
       </a>
       <h3>Nexora</h3>
-      <p><strong>E-Commerce Platform</strong></p>
+      <p><sub>E-Commerce Platform</sub></p>
+      <a href="YOUR_NEXORA_VERCEL_URL">Live Demo ↗</a>
+      <br />
+      <br />
     </td>
   </tr>
   <tr>
-    <td width="33.33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="middle">
       <a href="YOUR_RESEARCHHUB_VERCEL_URL">
-        <img src="/assets/projects/researchhub.png" width="150" alt="ResearchHub Logo" />
+        <img src="./assets/projects/researchhub.png" width="90" height="90" alt="ResearchHub Logo" />
       </a>
       <h3>ResearchHub</h3>
-      <p><strong>Research Collaboration</strong></p>
+      <p><sub>Research Collaboration</sub></p>
+      <a href="YOUR_RESEARCHHUB_VERCEL_URL">Live Demo ↗</a>
+      <br />
+      <br />
     </td>
-    <td width="33.33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="middle">
       <a href="YOUR_AIPATHASSIST_DEMO_URL">
-        <img src="/assets/projects/aipathassist.png" width="150" alt="AI-Path Assist Logo" />
+        <img src="./assets/projects/aipathassist.png" width="90" height="90" alt="AI-Path Assist Logo" />
       </a>
       <h3>AI-Path Assist</h3>
-      <p><strong>AI-Powered Clinical Pathology</strong></p>
+      <p><sub>AI-Powered Clinical Pathology</sub></p>
+      <a href="YOUR_AIPATHASSIST_DEMO_URL">Live Demo ↗</a>
+      <br />
+      <br />
     </td>
-    <td width="33.33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="middle">
       <a href="YOUR_BYTESPACE_VERCEL_URL">
-        <img src="/assets/projects/bbytespace.png" width="150" alt="ByteSpace Logo" />
+        <img src="./assets/projects/bbytespace.png" width="90" height="90" alt="ByteSpace Logo" />
       </a>
       <h3>ByteSpace</h3>
-      <p><strong>Modern Web Experience</strong></p>
+      <p><sub>Modern Web Experience</sub></p>
+      <a href="YOUR_BYTESPACE_VERCEL_URL">Live Demo ↗</a>
+      <br />
+      <br />
     </td>
   </tr>
 </table>
+
 
 
 
