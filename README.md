@@ -140,10 +140,10 @@ IMPORTANT:
 <table>
   <tr>
     <td width="33.33%" align="center" valign="middle">
-      <a href="YOUR_VIRTUALDOC_VERCEL_URL">
+      <a href="https://medicore-healthcare-seven.vercel.app">
         <img src="./assets/projects/medicore.png" width="90" height="90" alt="VirtualDoc Logo" />
       </a>
-      <h3>VirtualDoc</h3>
+      <h3>Medicore</h3>
       <p><sub>Healthcare & Telemedicine</sub></p>
       <a href="YOUR_VIRTUALDOC_VERCEL_URL">Live Demo ↗</a>
       <br />
@@ -203,14 +203,6 @@ IMPORTANT:
     </td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
 
 
   
