@@ -137,6 +137,12 @@ IMPORTANT:
 4. If a project is not deployed, link its logo to its GitHub repository instead.
 -->
 
+
+
+
+
+
+<div align="center">
 <table>
   <tr>
     <td width="33.33%" align="center" valign="middle">
@@ -145,7 +151,6 @@ IMPORTANT:
       </a>
       <h3>Medicore</h3>
       <p><sub>Healthcare & Telemedicine</sub></p>
-      <a href="YOUR_VIRTUALDOC_VERCEL_URL">Live Demo ↗</a>
       <br />
       <br />
     </td>
@@ -155,7 +160,6 @@ IMPORTANT:
       </a>
       <h3>Finora</h3>
       <p><sub>Banking Management System</sub></p>
-      <a href="YOUR_FINORA_VERCEL_URL">Live Demo ↗</a>
       <br />
       <br />
     </td>
@@ -165,8 +169,6 @@ IMPORTANT:
       </a>
       <h3>Nexora</h3>
       <p><sub>E-Commerce Platform</sub></p>
-      <a href="YOUR_NEXORA_VERCEL_URL">Live Demo ↗</a>
-      <br />
       <br />
     </td>
   </tr>
@@ -177,7 +179,6 @@ IMPORTANT:
       </a>
       <h3>ResearchHub</h3>
       <p><sub>Research Collaboration</sub></p>
-      <a href="YOUR_RESEARCHHUB_VERCEL_URL">Live Demo ↗</a>
       <br />
       <br />
     </td>
@@ -187,7 +188,6 @@ IMPORTANT:
       </a>
       <h3>AI-Path Assist</h3>
       <p><sub>AI-Powered Clinical Pathology</sub></p>
-      <a href="YOUR_AIPATHASSIST_DEMO_URL">Live Demo ↗</a>
       <br />
       <br />
     </td>
@@ -197,12 +197,19 @@ IMPORTANT:
       </a>
       <h3>ByteSpace</h3>
       <p><sub>Modern Web Experience</sub></p>
-      <a href="YOUR_BYTESPACE_VERCEL_URL">Live Demo ↗</a>
       <br />
       <br />
     </td>
   </tr>
 </table>
+</div>
+
+
+
+
+
+
+
 
 
   
