@@ -1,12 +1,31 @@
 <p align="center">
   <img src="https://i.postimg.cc/sxnfKJ5z/1695575161337.jpg" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm ARMAN RAKIB</h1>
-<h3 align="center">A passionate Backend developer from Bangladesh. </h3>
+<div align="center">
+
+  <h1>Hi there, I'm Arman Rakib 👋</h1>
+
+  <h3>Software Engineer | Backend Developer | Problem Solver</h3>
+
+  <p>
+    Building scalable backend systems, modern web applications,<br />
+    and reliable software solutions with clean, maintainable code.
+  </p>
+
+  <p>
+    <a href="https://github.com/armanrakib123">
+      <img src="https://komarev.com/ghpvc/?username=armanrakib123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/armanrakib123?tab=followers">
+      <img src="https://img.shields.io/github/followers/armanrakib123?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+    </a>
+    <a href="https://github.com/armanrakib123">
+      <img src="https://img.shields.io/github/stars/armanrakib123?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=yellow&label=Stars" alt="GitHub Stars" />
+    </a>
+  </p>
+</div>
 <img align="right"  alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanrakib123&label=Profile%20views&color=0e75b6&style=flat" alt="armanrakib123" /> </p>
 
 
 - 🔭 I’m currently learning ** Artificial intelligence & Machine learning **
@@ -71,18 +90,6 @@
 
 <br>
 
-<!-- ## 📈 GitHub Stats
-<div style="display: flex;">
-    <div style="margin-right: 10px;">
-       <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanrakib123&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
-    </div>
-</div>
-<br> -->
-
-
-
-
 
 
 
@@ -123,7 +130,66 @@
 
 
 
+## 🚀 Featured Projects
 
+A selection of my software engineering projects. Click any project logo to open its live application.
+
+<!--
+IMPORTANT:
+1. Store project logos in this profile repository's assets/ directory.
+2. Replace each YOUR_*_VERCEL_URL with the actual deployment URL.
+3. Replace each YOUR_*_LOGO_URL with a raw GitHub image URL or local assets path.
+4. If a project is not deployed, link its logo to its GitHub repository instead.
+-->
+
+<table>
+  <tr>
+    <td width="33.33%" align="center" valign="top">
+      <a href="YOUR_VIRTUALDOC_VERCEL_URL">
+        <img src="/assets/projects/medicore.png" width="150" alt="VirtualDoc Logo" />
+      </a>
+      <h3>VirtualDoc</h3>
+      <p><strong>Healthcare & Telemedicine</strong></p>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <a href="YOUR_FINORA_VERCEL_URL">
+        <img src="/assets/projects/finora.png" width="150" alt="Finora Logo" />
+      </a>
+      <h3>Finora</h3>
+      <p><strong>Banking Management System</strong></p>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <a href="YOUR_NEXORA_VERCEL_URL">
+        <img src="/assets/projects/nexora.png" width="150" alt="Nexora Logo" />
+      </a>
+      <h3>Nexora</h3>
+      <p><strong>E-Commerce Platform</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" align="center" valign="top">
+      <a href="YOUR_RESEARCHHUB_VERCEL_URL">
+        <img src="/assets/projects/researchhub.png" width="150" alt="ResearchHub Logo" />
+      </a>
+      <h3>ResearchHub</h3>
+      <p><strong>Research Collaboration</strong></p>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <a href="YOUR_AIPATHASSIST_DEMO_URL">
+        <img src="/assets/projects/aipathassist.png" width="150" alt="AI-Path Assist Logo" />
+      </a>
+      <h3>AI-Path Assist</h3>
+      <p><strong>AI-Powered Clinical Pathology</strong></p>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <a href="YOUR_BYTESPACE_VERCEL_URL">
+        <img src="/assets/projects/bbytespace.png" width="150" alt="ByteSpace Logo" />
+      </a>
+      <h3>ByteSpace</h3>
+      <p><strong>Modern Web Experience</strong></p>
+    </td>
+  </tr>
+</table>
 
 
 
