@@ -14,7 +14,7 @@
 
   <p>
     <a href="https://github.com/armanrakib123">
-      <!-- <img src="https://komarev.com/ghpvc/?username=armanrakib123&label=Profile%20views&color=0e75b6&style=flat" alt="armanrakib123" /> -->
+      <img src="https://komarev.com/ghpvc/?username=armanrakib123&label=Profile%20views&color=0e75b6&style=flat" alt="armanrakib123" />
     </a>
     <a href="https://github.com/armanrakib123?tab=followers">
       <img src="https://img.shields.io/github/followers/armanrakib123?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
